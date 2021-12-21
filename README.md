@@ -1,4 +1,4 @@
-# vertageLab
+# vertagelab
 
 1. Создать react приложение (https://create-react-app.dev/docs/getting-started)
 
